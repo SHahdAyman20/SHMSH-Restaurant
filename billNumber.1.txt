@@ -1,0 +1,13 @@
+   Bill number : 11
+-----------------
+ 
+1 chicken Shawarma1 meat Shawarma1 french Freis 2 water 16.0 LE
+1 pepsi 15.0 LE 
+
+----------------------
+
+sub total : 166.0 LE
+tax : 16.6 LE
+total :182.6 LE
+----------------------
+thank you for your order
